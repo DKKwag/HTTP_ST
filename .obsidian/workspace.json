@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "479d849c46875056",
+    "type": "split",
+    "children": [
+      {
+        "id": "77448510bd57592f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7056c7ea02a3d358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43a768fbde2d1789",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5b87ae2bf331743",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bedf17ba7797e53e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66d6115b2306f1b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#HTTP_웹의기초",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8cc97c5cdd533f36",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0bc376092c13d63",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0d7718e3e75e0a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f80de89f0f3ac15f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "005a721ae8641887",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "061848235c2c355d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "ef7ae2f834a77ec3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
+    }
+  },
+  "active": "7056c7ea02a3d358",
+  "lastOpenFiles": [
+    "01. HTTP_웹의기초/1장 웹 클라이언트와 서버.md",
+    "README.md",
+    "01. HTTP_웹의기초/2장 HTTP_인터넷의 멀티미디어 배달부.md",
+    "05. 콘텐츠 발행 및 배포.md",
+    "04. 엔터티, 인코딩, 국제화.md",
+    "03. 식별, 인가, 보안.md",
+    "02. HTTP_아키텍처.md",
+    "01. HTTP_웹의기초.md",
+    "무제 파일 1.md",
+    "05. 콘텐츠 발행 및 배포",
+    "04. 엔터티, 인코딩, 국제화",
+    "03. 식별, 인가, 보안",
+    "02. HTTP_아키텍처",
+    "무제 파일 3.md",
+    "무제 파일 2.md",
+    "01. HTTP_웹의기초"
+  ]
+}
