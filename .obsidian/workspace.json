@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "01. HTTP_웹의기초/2장 URL과 리소스.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f0bc376092c13d63",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01. HTTP_웹의기초/2장 URL과 리소스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01. HTTP_웹의기초/2장 URL과 리소스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "01. HTTP_웹의기초/2장 URL과 리소스.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "7056c7ea02a3d358",
   "lastOpenFiles": [
-    "01. HTTP_웹의기초/1장 웹 클라이언트와 서버.md",
+    "01. HTTP_웹의기초/1장 HTTP 개관.md",
+    "01. HTTP_웹의기초/2장 URL과 리소스.md",
     "README.md",
-    "01. HTTP_웹의기초/2장 HTTP_인터넷의 멀티미디어 배달부.md",
     "05. 콘텐츠 발행 및 배포.md",
     "04. 엔터티, 인코딩, 국제화.md",
     "03. 식별, 인가, 보안.md",

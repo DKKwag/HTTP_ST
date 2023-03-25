@@ -3,5 +3,6 @@
   "useTab": true,
   "showLineNumber": false,
   "useMarkdownLinks": false,
-  "foldIndent": false
+  "foldIndent": false,
+  "alwaysUpdateLinks": true
 }
