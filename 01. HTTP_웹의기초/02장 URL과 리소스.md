@@ -135,4 +135,4 @@ ex) http://www.joes-hardware.com/seasonal/inde-fall.html URL을 불러오고싶�
 
 
 
-연결 문서 : [[01장 HTTP 개관]]
+연결 문서 : [[03장 HTTP 메시지]]
